@@ -1,4 +1,5 @@
 import React, { Component} from 'react';
+
 class Anuncio extends Component{
 
     constructor(){
