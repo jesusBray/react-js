@@ -11,7 +11,7 @@ sudo apt-get update
 
 install curl if you already have it is not necessary. 
 
-1 step: sudo apt-get install curl
+Step 1: sudo apt-get install curl
 install node js. 
 
 Step 2: sudo apt-get install -y nodejs
