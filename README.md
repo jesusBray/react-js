@@ -1,26 +1,19 @@
 # react-js
 practices with react-js.
 To intall react in you computer follow the next steps.
-verifica si tienes instalado node y npm (inpresindibles);
-node -v
-npm -v
 
-siempre instale dependencias del sistema operatvo con:
-sudo apt update
 
-instala curl si ya lo tienes no es necesario.
-1 paso: sudo apt-get install curl
+check if you have installed node and npm (inpresindibles); node -v npm -v
 
-instalar node js.
-2 paso: sudo apt-get install -y nodejs
+always install operating system dependencies with: sudo apt update
 
-3 paso: instale (build-esential) de node para la ejecucion de proyectos.
-sudo apt-get install -y build-essential
-sudo apt-get install npm
+install curl if you already have it is not necessary. 1 step: sudo apt-get install curl
 
-4 paso: Instale React escribiendo:
-sudo npm install -g create-react-app
+install node js. Step 2: sudo apt-get install -y nodejs
 
-5 paso: cree el directorio de folders para React con:
-create-react-app miaplicacion
+3 step: install (build-esential) node for the execution of projects. sudo apt-get install -y build-essential sudo apt-get install npm
+
+Step 4: Install React by typing: sudo npm install -g create-react-app
+
+5 steps: create the directory of folders to React with: create-react-application miaplicacion
 
