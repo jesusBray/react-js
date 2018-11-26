@@ -3,12 +3,6 @@ class Anuncio extends Component{
 
     constructor(){
         super();
-        this.state={lista:['jesus','roberto','zuriel','abiel']};
-    }
-
-    list(lista){
-        return(lista.forEach(e => {
-        }));
     }
 
     render(){
