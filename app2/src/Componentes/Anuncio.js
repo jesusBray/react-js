@@ -14,7 +14,7 @@ class Anuncio extends Component{
     render(){
         return(
             <a>
-               {this.props.holaMundo+"\t"}
+               {this.props.holaMundo+"\t"}     
             </a>
         );
     }
