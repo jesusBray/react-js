@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Map from './Componentes/Map';
 import Layout from './Componentes/Layout';
-import materias from './Componentes/Materias'
+//import materias from './Componentes/Materias'
 
 class App extends Component {
   constructor(props) {
